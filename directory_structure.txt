@@ -1,0 +1,8 @@
+.
+./src
+./configs
+./data
+./data/processed
+./data/external
+./models
+./logs
