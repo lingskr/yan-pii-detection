@@ -1,0 +1,12 @@
+{
+  "label": "label",
+  "text_pred": "text_pred",
+  "image_pred": "image_pred",
+  "field": "field",
+  "value_gt": "value_gt",
+  "text_value": "text_value",
+  "image_value": "image_value",
+  "ocr_candidates_json": "ocr_candidates_json",
+  "text_logits_json": "text_logits_json",
+  "image_logits_json": "image_logits_json"
+}
